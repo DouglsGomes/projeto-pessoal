@@ -112,6 +112,7 @@ div.video > iframe{
 }
 div.img{
     display: inline-block;
+    min-width: 300px;
     
 }
 
